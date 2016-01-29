@@ -1,6 +1,12 @@
 # Walmart_Test
 Quick test program.
 
+build:
+	mvn install
+
+run:
+java -jar Walmart_Test-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+
 Assumptions:
 	Executer has Maven installed
 	
